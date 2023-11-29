@@ -8,8 +8,8 @@ MeetingSpace is a web app that connects landlords with vacant office space for p
 ​![mspace](https://github.com/Jide-Muritala/meeting_space/assets/115728688/f5fb0897-030c-42fd-85c3-04cde5946f57)
 
 
-The app is built on Ruby on Rails. It uses PostgreSQL for the database and Devise for user authentication. 
-It uses Mapbox for mapping and Cloudinary for user media management. 
+The app is built on Ruby on Rails. It uses PostgreSQL for the database, Devise for user authentication, and Pundit for authorization. 
+It uses Mapbox for location mapping and Cloudinary for user media management. 
 
 
 ### 1. Design
