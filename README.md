@@ -2,7 +2,7 @@
 
 MeetingSpace is a web app that connects landlords with vacant office space for professionals looking for space to work. MeetingSpace offers unrivalled choice across the globe from a one person hot-desk to 100 people conference rooms. It was designed by a team of four as the final project of the Le Wagon Web Development bootcamp.
 
-[Click to view the Le Wagon demo-day presentation of the app on YouTube](https://www.youtube.com/watch?v=W7xVpitKp5Y) 
+[Click to view the presentation of the app on YouTube](https://www.youtube.com/watch?v=W7xVpitKp5Y) 
 
 
 ​![mspace](https://github.com/Jide-Muritala/meeting_space/assets/115728688/f5fb0897-030c-42fd-85c3-04cde5946f57)
