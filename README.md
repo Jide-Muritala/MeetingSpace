@@ -66,7 +66,7 @@ It uses Mapbox for location mapping and Cloudinary for user media management. Me
 | Layer             | Technologies                                 | Purpose                                              |
 |-------------------|-----------------------------------------------|-----------------------------------------------------|
 | **Design**         | Figma                                         | UI/UX design and prototyping                       |
-| **Frontend**       | HTML, CSS, Bootstrap 5.2.3                    | Markup and styling                                 |
+| **Frontend**       | HTML, CSS, Sass, Bootstrap 5.2.3              | Markup and styling                                 |
 |                   | Stimulus.js (Hotwire)                         | JavaScript framework for reactive components        |
 |                   | Flatpickr, Typed.js, Stimulus controllers     | Date picker, typing animation, UI interactivity     |
 |                   | Font Awesome 6.3.0                            | Icon library                                        |
