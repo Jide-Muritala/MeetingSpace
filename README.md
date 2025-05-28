@@ -1,6 +1,6 @@
 # MeetingSpace: Fullstack Web Application
 
-MeetingSpace is a fullstack web application that connects office space owners with professionals seeking workspaces. It allows users to find, book, and manage office spaces ranging from single hot-desks to large conference rooms. It was designed by a team of four as the final project of the Le Wagon Web Development bootcamp.
+MeetingSpace is a fullstack web application that connects office space owners with professionals seeking workspaces. It allows users to find, book, and manage office spaces ranging from single hot-desks to large conference rooms. It was designed as the final team project of the Le Wagon bootcamp.
 
 [Click to view the presentation of the app on YouTube](https://www.youtube.com/watch?v=W7xVpitKp5Y) 
 
